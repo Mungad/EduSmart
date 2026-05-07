@@ -1,0 +1,242 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/main"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/dark_blue"
+    tools:context=".HelpSupportActivity">
+
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="vertical"
+        android:padding="20dp">
+
+        <!-- FAQ Question 1 -->
+        <TextView
+            android:id="@+id/faqQuestion1"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:textColor="#FFF"
+            android:textStyle="bold"
+            android:textSize="20dp"
+            android:paddingBottom="8dp" />
+
+        <TextView
+            android:id="@+id/faqAnswer1"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:textColor="#FFF"
+            android:textSize="18dp"
+            android:paddingBottom="16dp" />
+
+        <!-- FAQ Question 2 -->
+        <TextView
+            android:id="@+id/faqQuestion2"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:textColor="#FFF"
+            android:textStyle="bold"
+            android:textSize="20dp"
+            android:paddingBottom="8dp" />
+
+        <TextView
+            android:id="@+id/faqAnswer2"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:textColor="#FFF"
+            android:textSize="18dp"
+            android:paddingBottom="16dp" />
+
+        <TextView
+            android:id="@+id/faqQuestion3"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:textColor="#FFF"
+            android:textStyle="bold"
+            android:textSize="20dp"
+            android:paddingBottom="8dp" />
+
+        <TextView
+            android:id="@+id/faqAnswer3"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:textColor="#FFF"
+            android:textSize="18dp"
+            android:paddingBottom="16dp" />
+
+        <TextView
+            android:id="@+id/faqQuestion4"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:textColor="#FFF"
+            android:textStyle="bold"
+            android:textSize="20dp"
+            android:paddingBottom="8dp" />
+
+        <TextView
+            android:id="@+id/faqAnswer4"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:textColor="#FFF"
+            android:textSize="18dp"
+            android:paddingBottom="16dp" />
+
+        <TextView
+            android:id="@+id/faqQuestion5"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:textColor="#FFF"
+            android:textStyle="bold"
+            android:textSize="20dp"
+            android:paddingBottom="8dp" />
+
+        <TextView
+            android:id="@+id/faqAnswer5"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:textColor="#FFF"
+            android:textSize="18dp"
+            android:paddingBottom="16dp" />
+
+        <TextView
+            android:id="@+id/faqQuestion6"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:textColor="#FFF"
+            android:textStyle="bold"
+            android:textSize="20dp"
+            android:paddingBottom="8dp" />
+
+        <TextView
+            android:id="@+id/faqAnswer6"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:textColor="#FFF"
+            android:textSize="18dp"
+            android:paddingBottom="16dp" />
+
+        <TextView
+            android:id="@+id/faqQuestion7"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:textColor="#FFF"
+            android:textStyle="bold"
+            android:textSize="20dp"
+            android:paddingBottom="8dp" />
+
+        <TextView
+            android:id="@+id/faqAnswer7"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:textColor="#FFF"
+            android:textSize="18dp"
+            android:paddingBottom="16dp" />
+
+        <TextView
+            android:id="@+id/faqQuestion8"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:textColor="#FFF"
+            android:textStyle="bold"
+            android:textSize="20dp"
+            android:paddingBottom="8dp" />
+
+        <TextView
+            android:id="@+id/faqAnswer8"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:textColor="#FFF"
+            android:textSize="18sp"
+            android:paddingBottom="16dp" />
+
+        <TextView
+            android:id="@+id/faqQuestion9"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:textColor="#FFF"
+            android:textStyle="bold"
+            android:textSize="20dp"
+            android:paddingBottom="8dp" />
+
+        <TextView
+            android:id="@+id/faqAnswer9"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:textColor="#FFF"
+            android:textSize="18sp"
+            android:paddingBottom="16dp" />
+
+        <TextView
+            android:id="@+id/faqQuestion10"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:textColor="#FFF"
+            android:textStyle="bold"
+            android:textSize="20dp"
+            android:paddingBottom="8dp" />
+
+        <TextView
+            android:id="@+id/faqAnswer10"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:textColor="#FFF"
+            android:textSize="18sp"
+            android:paddingBottom="16dp" />
+
+        <TextView
+            android:id="@+id/faqQuestion11"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:textColor="#FFF"
+            android:textStyle="bold"
+            android:textSize="20dp"
+            android:paddingBottom="8dp" />
+
+        <TextView
+            android:id="@+id/faqAnswer11"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:textColor="#FFF"
+            android:textSize="18sp"
+            android:paddingBottom="16dp" />
+
+        <TextView
+            android:id="@+id/faqQuestion12"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:textColor="#FFF"
+            android:textStyle="bold"
+            android:textSize="20dp"
+            android:paddingBottom="8dp" />
+
+        <TextView
+            android:id="@+id/faqAnswer12"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:textColor="#FFF"
+            android:textSize="18sp"
+            android:paddingBottom="16dp" />
+
+        <TextView
+            android:id="@+id/faqQuestion13"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:textColor="#FFF"
+            android:textStyle="bold"
+            android:textSize="20dp"
+            android:paddingBottom="8dp" />
+
+        <TextView
+            android:id="@+id/faqAnswer13"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:textColor="#FFF"
+            android:textSize="18sp"
+            android:paddingBottom="16dp" />
+    </LinearLayout>
+
+</ScrollView>

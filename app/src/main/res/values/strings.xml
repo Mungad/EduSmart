@@ -1,0 +1,37 @@
+<resources>
+    <string name="app_name">EduSmart</string>
+    <string name="enter_your_password">Enter your password</string>
+    <string name="sign_in_to_continue">Sign in to continue</string>
+    <string name="enter_your_username">Enter your username</string>
+    <string name="sign_up_for_a_new_account">Sign up for a new account</string>
+    <string name="welcome">Welcome</string>
+    <string name="new_to_edusmart">New to EduSmart?</string>
+    <string name="login">Login</string>
+    <string name="confirm_your_password">Confirm your password</string>
+    <string name="enter_your_email">Enter your Email</string>
+    <string name="create_account">Create Account</string>
+    <string name="edusmart">EduSmart</string>
+    <string name="exams">EXAMS</string>
+    <string name="course_texts">COURSE TEXTS</string>
+    <string name="lecturers">LECTURERS</string>
+    <string name="articles">ARTICLES</string>
+    <string name="order_details">ORDER DETAILS</string>
+    <string name="top_lecturers">Top Lecturers</string>
+    <string name="it">IT</string>
+    <string name="pharmacy">PHARMACY</string>
+    <string name="register">Register</string>
+    <string name="already_have_an_account">Already have an account</string>
+    <string name="international_relations">International Relations</string>
+    <string name="animation">Animation</string>
+    <string name="psychology">Psychology</string>
+    <string name="engineering">Engineering</string>
+    <string name="textview">TextView</string>
+    <string name="default_text">Default Text</string>
+    <string name="book_appointment">Book Appointment</string>
+    <string name="health_articles">Health Articles</string>
+    <string name="top_courses">Top Courses</string>
+    <string name="help_and_support">Help and Support</string>
+    <string name="help_support">HELP/SUPPORT</string>
+    <string name="room_no">Room No</string>
+    <string name="educational_articles">Educational Articles</string>
+</resources>

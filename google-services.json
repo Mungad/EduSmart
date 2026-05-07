@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "178304578186",
+    "project_id": "edu-smart-46acb",
+    "storage_bucket": "edu-smart-46acb.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:178304578186:android:55fc074a8d45246709f373",
+        "android_client_info": {
+          "package_name": "com.example.edusmart"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDWcKv5rGFceYdOHuApMTPJ8pG57dWUi48"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
